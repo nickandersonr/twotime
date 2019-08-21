@@ -18,8 +18,11 @@ nav a{
      display: block;
      float: left;
      font-family: sans-serif;
-     font-size: 9px;
      color: white;
+     padding-top: 30px;
+     padding-left:15px;
+     padding-right: 15px;
+     padding-bottom: 15px;
 }
 
 #logo{
