@@ -16,7 +16,7 @@ nav{
 
 nav a{
      display: block;
-     float: center;
+     float: left;
      font-family: sans-serif;
      color: white;
      padding-top: 30px;
