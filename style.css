@@ -16,6 +16,10 @@ nav{
 
 nav a{
      display: block;
+     float: left;
+     font-family: sans-serif;
+     font-size: 9px;
+     color: white;
 }
 
 #logo{
