@@ -16,13 +16,13 @@ nav{
 
 nav a{
      display: block;
-     float: left;
+     float: center;
      font-family: sans-serif;
      color: white;
      padding-top: 30px;
      padding-left:15px;
      padding-right: 15px;
-     padding-bottom: 15px;
+     padding-bottom: 0px;
 }
 
 #logo{
