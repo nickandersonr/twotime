@@ -10,3 +10,9 @@ background: #CCC;
 text-align: center;
 padding: 20px;
 }
+
+.social {
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
