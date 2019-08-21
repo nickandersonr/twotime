@@ -10,6 +10,7 @@ nav{
 	height: 50px;
 	background-color: #CCC;
 	text-align: center;
+	text-orientation: bottom;
 }
 
 nav a{
