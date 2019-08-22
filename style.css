@@ -1,4 +1,8 @@
 .navbar{	
+width: 100px;
+height: 100px;
+margin: auto;
+
 	display: flex;
 	flex-flow: row wrap; 
 	justify-content: space-around;
