@@ -34,7 +34,9 @@ nav a{
 }
 
 h4{
+	padding-bottom: 5px;
 	text-align: center;
+	border-bottom: 1px solid #000;
 }
 
 p{
