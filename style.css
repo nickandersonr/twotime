@@ -40,12 +40,12 @@ nav a{
 
 .terms{
 	display: block;
-	float: left;
+	float: right;
 	background-color: #ccc;
 }
 
 .copyright{
 display: block;
-float: right;
+float: left;
 background-color: #ccc;
 }
