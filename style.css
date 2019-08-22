@@ -21,8 +21,6 @@ margin: auto;
 
 }
 nav a{
-	padding-left: 50px;
-	padding-right: 50px;
 	font-size: larger;
 }
 
@@ -55,6 +53,7 @@ a:-webkit-any-link {
 footer{
 	background: #50A555;
 	align-content: center;
+	color: white;
 }
 
 footer a{
