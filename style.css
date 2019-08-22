@@ -1,4 +1,5 @@
-.navbar{
-	justify-content: center;
-	
+.navbar{	
+	display: flex;
+	flex-flow: row wrap; 
+	justify-content: space-around;
 }
