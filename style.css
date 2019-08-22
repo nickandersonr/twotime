@@ -1,11 +1,17 @@
+/* Controls Social Menu */
+.social{
+	color: blue;
+}
+
+/* Controls Navbar */
 .navbar{	
 justify-content: center;
 padding-bottom: 0px;
 padding-top: 16px;
 background: #50A555;
+color: white;
 
 }
-
 nav{
 padding-left: 16px;
 padding-top: 16px;
@@ -13,16 +19,15 @@ padding-right: 16px;
 margin: auto;
 
 }
-
-
 nav a{
 	padding-left: 50px;
 	padding-right: 50px;
-
-	color: white;
 	font-size: larger;
 }
 
+
+
+/* Controls Product Section */
 .products .row div{
 	padding: 100px;
     
@@ -34,4 +39,22 @@ h4{
 
 p{
 	text-align: center;
+}
+
+
+
+a:-webkit-any-link {
+    color: inherit;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+/* Controls Footer */
+footer{
+	background: #50A555;
+	align-content: center;
+}
+
+footer a{
+	float: right;
 }
