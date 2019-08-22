@@ -6,7 +6,8 @@
 }
 
 .social a{
-	
+	display: block;
+	float: left;
 }
 
 nav{
