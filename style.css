@@ -42,10 +42,12 @@ nav a{
 	display: block;
 	float: right;
 	background-color: #ccc;
+	padding-right: 50px;
 }
 
 .copyright{
 display: block;
 float: left;
 background-color: #ccc;
+padding-left: 50px;
 }
