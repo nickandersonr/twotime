@@ -51,3 +51,7 @@ float: left;
 background-color: #ccc;
 padding-left: 50px;
 }
+
+.container .navbar{
+	justify-content: center;
+}
